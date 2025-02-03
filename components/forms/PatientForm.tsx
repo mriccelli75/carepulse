@@ -90,3 +90,4 @@ export const PatientForm = () => {
     </Form>
   );
 };
+export default PatientForm;
